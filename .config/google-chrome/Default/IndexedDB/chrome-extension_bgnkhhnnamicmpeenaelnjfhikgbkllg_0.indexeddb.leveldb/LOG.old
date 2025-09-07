@@ -1,0 +1,16 @@
+2025/09/06-18:15:39.300 1fcb Reusing MANIFEST /home/chase/.config/google-chrome/Default/IndexedDB/chrome-extension_bgnkhhnnamicmpeenaelnjfhikgbkllg_0.indexeddb.leveldb/MANIFEST-000001
+2025/09/06-18:15:39.300 1fcb Recovering log #39
+2025/09/06-18:15:39.300 1fcb Reusing old log /home/chase/.config/google-chrome/Default/IndexedDB/chrome-extension_bgnkhhnnamicmpeenaelnjfhikgbkllg_0.indexeddb.leveldb/000039.log 
+2025/09/06-18:15:39.301 1fcb Delete type=2 #37
+2025/09/06-18:15:39.301 1fcb Delete type=2 #36
+2025/09/06-18:15:39.317 1fcb Level-0 table #45: started
+2025/09/06-18:15:39.318 1fcb Level-0 table #45: 622 bytes OK
+2025/09/06-18:15:39.319 1fcb Delete type=0 #39
+2025/09/06-18:15:39.319 1fcb Manual compaction at level-0 from '\x00\x0c\x00\x00\x00' @ 72057594037927935 : 1 .. '\x00\x0d\x00\x00\x00' @ 0 : 0; will stop at '\x00\x0c\x00\x00\x05' @ 5854 : 1
+2025/09/06-18:15:39.319 1fcb Compacting 1@0 + 2@1 files
+2025/09/06-18:15:39.329 1fcb Generated table #46@0: 2112 keys, 2109272 bytes
+2025/09/06-18:15:39.334 1fcb Generated table #47@0: 788 keys, 1977288 bytes
+2025/09/06-18:15:39.334 1fcb Compacted 1@0 + 2@1 files => 4086560 bytes
+2025/09/06-18:15:39.335 1fcb compacted to: files[ 0 2 1 0 0 0 0 ]
+2025/09/06-18:15:39.335 1fcb Delete type=2 #45
+2025/09/06-18:15:39.336 1fcb Manual compaction at level-0 from '\x00\x0c\x00\x00\x05' @ 5854 : 1 .. '\x00\x0d\x00\x00\x00' @ 0 : 0; will stop at (end)

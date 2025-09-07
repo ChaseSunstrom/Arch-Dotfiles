@@ -1,0 +1,397 @@
+{
+   "checksum": "d2a66e431bdbc1d6115b48d1c07a5052",
+   "roots": {
+      "bookmark_bar": {
+         "children": [ {
+            "children": [ {
+               "date_added": "13247383409868519",
+               "date_last_used": "13400574525315779",
+               "guid": "f82f9304-0bbb-4e2f-89b7-388dc175f6c2",
+               "id": "11",
+               "name": "Inbox (146) - casunstrom@gmail.com - Gmail",
+               "type": "url",
+               "url": "https://mail.google.com/mail/u/0/#inbox"
+            }, {
+               "date_added": "13330382563043570",
+               "date_last_used": "13401320467399122",
+               "guid": "8519153a-c604-4062-93e9-003f4b431e3d",
+               "id": "12",
+               "meta_info": {
+                  "power_bookmark_meta": ""
+               },
+               "name": "Mail - Sunstrom, Chase A - Outlook",
+               "type": "url",
+               "url": "https://outlook.office.com/mail/"
+            } ],
+            "date_added": "13337802151556795",
+            "date_last_used": "0",
+            "date_modified": "13337802151556795",
+            "guid": "7229f829-df1d-4d03-8acf-051e117eb5a2",
+            "id": "10",
+            "name": "Mail",
+            "type": "folder"
+         }, {
+            "children": [ {
+               "date_added": "13205470449367545",
+               "date_last_used": "13399799687802165",
+               "guid": "8717c216-7f62-44ca-9e0e-bb6399e5ee7a",
+               "id": "14",
+               "meta_info": {
+                  "last_visited_desktop": "13205538036870472"
+               },
+               "name": "YouTube",
+               "type": "url",
+               "url": "https://www.youtube.com/"
+            }, {
+               "date_added": "13380162317764557",
+               "date_last_used": "13380435685787676",
+               "guid": "93a21196-7932-4740-bb92-2a63b2963b91",
+               "id": "15",
+               "meta_info": {
+                  "power_bookmark_meta": ""
+               },
+               "name": "Twitch",
+               "type": "url",
+               "url": "https://www.twitch.tv/"
+            } ],
+            "date_added": "13381264463651955",
+            "date_last_used": "0",
+            "date_modified": "13381264463651955",
+            "guid": "787c2005-aebf-45cb-a9f0-e3f231300b3c",
+            "id": "13",
+            "name": "Media",
+            "type": "folder"
+         }, {
+            "children": [ {
+               "date_added": "13330290729555333",
+               "date_last_used": "13401674142768792",
+               "guid": "d6815feb-27b8-4450-9033-48339c651a69",
+               "id": "17",
+               "meta_info": {
+                  "power_bookmark_meta": ""
+               },
+               "name": "https://chat.openai.com",
+               "type": "url",
+               "url": "https://chat.openai.com/"
+            }, {
+               "date_added": "13378444373274311",
+               "date_last_used": "13390764748334828",
+               "guid": "7e351d43-2050-43e9-9c0c-821ea99622d3",
+               "id": "18",
+               "meta_info": {
+                  "power_bookmark_meta": ""
+               },
+               "name": "Claude",
+               "type": "url",
+               "url": "https://claude.ai/new"
+            }, {
+               "date_added": "13377639883382528",
+               "date_last_used": "13389220834355905",
+               "guid": "9544ae34-1b82-41f6-85b2-e605df9d55fd",
+               "id": "19",
+               "meta_info": {
+                  "power_bookmark_meta": ""
+               },
+               "name": "Usage: Cost - OpenAI API",
+               "type": "url",
+               "url": "https://platform.openai.com/usage"
+            } ],
+            "date_added": "13377639893323604",
+            "date_last_used": "0",
+            "date_modified": "13378444373274311",
+            "guid": "63609a7b-fc32-46bd-9320-79bfdc01a246",
+            "id": "16",
+            "name": "ChatGPT",
+            "type": "folder"
+         }, {
+            "children": [ {
+               "date_added": "13377631717696741",
+               "date_last_used": "13398788667781289",
+               "guid": "b5637d28-d6db-4037-a069-9b2dc80ec47a",
+               "id": "21",
+               "meta_info": {
+                  "power_bookmark_meta": ""
+               },
+               "name": "Ellucian Degree Works Dashboard",
+               "type": "url",
+               "url": "https://dw-prod.ec.dmacc.edu/responsiveDashboard/worksheets/WEB31"
+            }, {
+               "date_added": "13351791719166931",
+               "date_last_used": "13380825795163605",
+               "guid": "9e60ff8c-a9db-4825-8c7a-e0ba8c7ddc88",
+               "id": "22",
+               "meta_info": {
+                  "power_bookmark_meta": ""
+               },
+               "name": "Program: Computer Information Systems, AAS - Des Moines Area Community College - Acalog ACMS™",
+               "type": "url",
+               "url": "https://catalog.dmacc.edu/preview_program.php?catoid=23&poid=4123#"
+            }, {
+               "date_added": "13377712960296589",
+               "date_last_used": "0",
+               "guid": "50eadbf7-fb61-45cf-8e75-6ffb4cd2877e",
+               "id": "23",
+               "meta_info": {
+                  "power_bookmark_meta": ""
+               },
+               "name": "Dashboard - DMACC",
+               "type": "url",
+               "url": "https://my.dmacc.edu/dashboard"
+            }, {
+               "date_added": "13381254516532610",
+               "date_last_used": "13393354860971393",
+               "guid": "9eb3f242-76b0-459d-84b8-232af6348f7b",
+               "id": "24",
+               "meta_info": {
+                  "power_bookmark_meta": ""
+               },
+               "name": "View Registration Information",
+               "type": "url",
+               "url": "https://reg-prod.ec.dmacc.edu/StudentRegistrationSsb/ssb/registrationHistory/registrationHistory"
+            }, {
+               "date_added": "13381515169844099",
+               "date_last_used": "13401322156983651",
+               "guid": "ac8aecf3-4422-4f0f-ac5e-8d6dfb16e939",
+               "id": "25",
+               "meta_info": {
+                  "power_bookmark_meta": ""
+               },
+               "name": "Dashboard",
+               "type": "url",
+               "url": "https://dmacc.instructure.com/"
+            }, {
+               "date_added": "13392828360064114",
+               "date_last_used": "0",
+               "guid": "e7760804-fa97-42d3-b6af-dbe2aabba199",
+               "id": "26",
+               "meta_info": {
+                  "power_bookmark_meta": ""
+               },
+               "name": "Cengage Learning",
+               "type": "url",
+               "url": "https://www.cengage.com/dashboard/home"
+            }, {
+               "date_added": "13392830140628943",
+               "date_last_used": "13393472843258628",
+               "guid": "e350a9d7-a794-458a-aed8-827003ead479",
+               "id": "27",
+               "meta_info": {
+                  "power_bookmark_meta": ""
+               },
+               "name": "Oracle 11g: PL/SQL Programming",
+               "type": "url",
+               "url": "https://platform.virdocs.com/read/535396/1/#/4/2"
+            }, {
+               "date_added": "13393472903692423",
+               "date_last_used": "13396389677916782",
+               "guid": "95618a38-2167-4d6a-9f8d-79f2da8b12e0",
+               "id": "28",
+               "meta_info": {
+                  "power_bookmark_meta": ""
+               },
+               "name": "Log In | Brytewave eReader",
+               "type": "url",
+               "url": "https://brytewave.redshelf.com/accounts/login/"
+            } ],
+            "date_added": "13377631852247515",
+            "date_last_used": "0",
+            "date_modified": "13393472903692423",
+            "guid": "6d8f075f-0145-44c2-b584-e4235ec40d2a",
+            "id": "20",
+            "name": "DMACC Important",
+            "type": "folder"
+         }, {
+            "date_added": "13324095330927686",
+            "date_last_used": "13401147878428412",
+            "guid": "2f5cc62d-5b44-457e-84b4-90f34f14d954",
+            "id": "29",
+            "meta_info": {
+               "power_bookmark_meta": ""
+            },
+            "name": "ChaseSunstrom (Chase Sunstrom)",
+            "type": "url",
+            "url": "https://github.com/ChaseSunstrom"
+         }, {
+            "date_added": "13330453002427033",
+            "date_last_used": "13377105229559644",
+            "guid": "701a1998-e95f-49a0-9a84-06e6b934adf8",
+            "id": "30",
+            "meta_info": {
+               "power_bookmark_meta": ""
+            },
+            "name": "My Drive - Google Drive",
+            "type": "url",
+            "url": "https://drive.google.com/drive/u/0/my-drive"
+         }, {
+            "date_added": "13357971254700769",
+            "date_last_used": "0",
+            "guid": "02f35efb-9ce1-46b0-a4be-bc9246806018",
+            "id": "31",
+            "meta_info": {
+               "power_bookmark_meta": ""
+            },
+            "name": "Game Design Document Template | Nuclino",
+            "type": "url",
+            "url": "https://app.nuclino.com/Unclever/Arcnum/Game-Design-Document-Template-aab5fe4f-5df8-42cf-b7ca-c15106421962"
+         }, {
+            "date_added": "13367223220152937",
+            "date_last_used": "0",
+            "guid": "4531bedf-cd51-4fa2-bd35-0a8fd979303c",
+            "id": "32",
+            "meta_info": {
+               "power_bookmark_meta": ""
+            },
+            "name": "Plex",
+            "type": "url",
+            "url": "https://app.plex.tv/desktop/#!/"
+         }, {
+            "date_added": "13387310675742686",
+            "date_last_used": "13395596299141237",
+            "guid": "c336c2b6-0fa0-4e5a-a486-66c90e67038a",
+            "id": "33",
+            "meta_info": {
+               "power_bookmark_meta": ""
+            },
+            "name": "ChaseSunstrom/cforge: A fast, cross-platform build tool for C and C++ written in Rust",
+            "type": "url",
+            "url": "https://github.com/ChaseSunstrom/cforge"
+         }, {
+            "date_added": "13388819443797737",
+            "date_last_used": "0",
+            "guid": "4a9230ff-09b1-4a73-9aaa-219b474dad6e",
+            "id": "34",
+            "meta_info": {
+               "power_bookmark_meta": ""
+            },
+            "name": "Client Area - A2 Hosting",
+            "type": "url",
+            "url": "https://my.a2hosting.com/clientarea.php"
+         }, {
+            "date_added": "13388819789871275",
+            "date_last_used": "13397913695336462",
+            "guid": "e1142400-1fbd-44d3-9e68-4432e39b82ae",
+            "id": "35",
+            "meta_info": {
+               "power_bookmark_meta": ""
+            },
+            "name": "Overview",
+            "type": "url",
+            "url": "https://search.google.com/search-console?resource_id=sc-domain%3Achasesunstrom.com"
+         }, {
+            "date_added": "13389154809217146",
+            "date_last_used": "0",
+            "guid": "04e5c2df-42b4-49ce-b4bd-c10edf30feb4",
+            "id": "36",
+            "meta_info": {
+               "power_bookmark_meta": ""
+            },
+            "name": "Chase Sunstrom | Developer Portfolio",
+            "type": "url",
+            "url": "https://chasesunstrom.com/"
+         }, {
+            "date_added": "13398385472941984",
+            "date_last_used": "0",
+            "guid": "d7152651-69b5-4177-bf15-2842abaf92b6",
+            "id": "37",
+            "name": "Sign in",
+            "type": "url",
+            "url": "https://cursor.com/api/auth/login"
+         } ],
+         "date_added": "13401669311380155",
+         "date_last_used": "0",
+         "date_modified": "13398385472941984",
+         "guid": "0bc5d13f-2cba-5d74-951f-3f233fe6c908",
+         "id": "1",
+         "name": "Bookmarks bar",
+         "type": "folder"
+      },
+      "other": {
+         "children": [ {
+            "date_added": "13339876868478533",
+            "date_last_used": "13360874188997666",
+            "guid": "c2f28808-f4b5-4e5b-a223-be00405de54d",
+            "id": "5",
+            "meta_info": {
+               "power_bookmark_meta": ""
+            },
+            "name": "C practice challenges – train on code kata | Codewars",
+            "type": "url",
+            "url": "https://www.codewars.com/kata/search/c?q=&beta=false&order_by=sort_date%20desc"
+         }, {
+            "date_added": "13374699248548627",
+            "date_last_used": "0",
+            "guid": "23a364fa-34ae-40cc-9edb-e7e168f2a3d1",
+            "id": "6",
+            "meta_info": {
+               "power_bookmark_meta": ""
+            },
+            "name": "Abine: DeleteMe",
+            "type": "url",
+            "url": "https://joindeleteme.com/delete-me/user?only=414335"
+         }, {
+            "date_added": "13388169471026380",
+            "date_last_used": "0",
+            "guid": "60c0083c-5ad9-4f7e-8c3b-a7d3db40da99",
+            "id": "7",
+            "meta_info": {
+               "power_bookmark_meta": ""
+            },
+            "name": "Latest topics - Beman Project",
+            "type": "url",
+            "url": "https://discourse.bemanproject.org/latest"
+         }, {
+            "date_added": "13388700216170056",
+            "date_last_used": "0",
+            "guid": "16016a12-b4b5-467e-86a2-61bd0788b187",
+            "id": "8",
+            "meta_info": {
+               "power_bookmark_meta": ""
+            },
+            "name": "Chase Sunstrom",
+            "type": "url",
+            "url": "http://localhost:5173/games"
+         }, {
+            "date_added": "13392535297719592",
+            "date_last_used": "0",
+            "guid": "c5c154df-0e00-4cd1-8319-4e4487867a8a",
+            "id": "9",
+            "meta_info": {
+               "power_bookmark_meta": ""
+            },
+            "name": "Configuration | end-4/dots-hyprland",
+            "type": "url",
+            "url": "https://end-4.github.io/dots-hyprland-wiki/en/i-i/03config/"
+         } ],
+         "date_added": "13401669311380155",
+         "date_last_used": "0",
+         "date_modified": "13392535297719592",
+         "guid": "82b081ec-3dd3-529c-8475-ab6c344590dd",
+         "id": "2",
+         "name": "Other bookmarks",
+         "type": "folder"
+      },
+      "synced": {
+         "children": [ {
+            "date_added": "13396308511371804",
+            "date_last_used": "0",
+            "guid": "e77d5cd8-0dae-43c3-ac0b-4fbd412bdc28",
+            "id": "38",
+            "meta_info": {
+               "power_bookmark_meta": "CmoKaGh0dHBzOi8vZW5jcnlwdGVkLXRibjIuZ3N0YXRpYy5jb20vaW1hZ2VzP3E9dGJuOkFOZDlHY1Q3LTlpdUlLWDAzRm5nOHN1Z0ZTRjNWeGcycnd6cTdScG4yT1JVX1BzQjExQXprdUVDMkMKEU5pbnRlbmRvIFN3aXRjaCAyGgsKA1VTRBDwmsnWASDcoaj447KVjdkBKAAxRd8jZTDDkPw6AlVTSNSPq5Py++UX"
+            },
+            "name": "Nintendo Switch 2 - Buy Now | Price & Availability | GameStop",
+            "type": "url",
+            "url": "https://www.gamestop.com/consoles-hardware/nintendo-switch/consoles/products/nintendo-switch-2/20019700.html"
+         } ],
+         "date_added": "13401669311380155",
+         "date_last_used": "0",
+         "date_modified": "13396308511371804",
+         "guid": "4cf2e351-0e85-532b-bb37-df045d8f8d0f",
+         "id": "3",
+         "name": "Mobile bookmarks",
+         "type": "folder"
+      }
+   },
+   "sync_metadata": "CnAKUAiIgQISSiAAkgE2CjQKDmNocm9tZV9zeW5jX2JtEgU1MSFibRoSCWiib/opPgYAEWiib/opPgYAKTOLcPopPgYA6gEMCIT88sUGEJiN4tcBEgAqGEZHR3ZKaGs1cG1yV2FDTDkvTVFMR3c9PUgDEuwBCAYS5wEKHEdKaFZhbmtPeDMrNjhRbTYxZEFBMWZQeEpMbz0SZlo6QURxdEFaeTRNMUh2V09pcklTRm1YeW1MN2J4ZWd6d2RuY1Q4WlM5Y1RiV0FCTnUydlBKYlU3VGNrUTI0U2NTaU43WHRmWEFFZCtCR1lncmU0cVdob3hTMTcrUE9JQkJvT1E9PRgAIAAoADDei6rqmLSJAzik5/DLrTJApOfwy60yShxpbVJRVTVUaFpTek8xb0tHNDV1RUxFc04xRzA9Wh8iHbkrWlcyUGhwbEhoRHRBZk9OK2I0bVR0bkl4R3M9ZZOla7oS7AEIEhLnAQoceFBKTXM4dTYrOUFjckQ2eHoxaVVVUjNPM3NnPRJmWjpBRHF0QVp5NE0xSHZXT2lySVNGbVh5bUw3Ynhldm9HTnFhRkt6ZExDbnpoY2ZDby9jZGoxN1R0OEtyOGpiaEtMQUsrcDcxU2RGQXBJdGZKNEFiY1BvWElORzgydnpaNUFBUT09GAAgACgAMITP7YT4h44DOJqK2cW7MkCaitnFuzJKHHR2RS9jVms1bW5tb3h3SUR6WGFVUXFWMER6WT1aHyId0jJ4NTFrdXFyUWZUUGZ6cHBVR2RhT1dUQzhlND1ltnolgBLsAQgNEucBChxKMERzR0ZXKzB0bElhamNXSWhiS0YxR0dHVlE9EmZaOkFEcXRBWnk0TTFIdldPaXJJU0ZtWHltTDdieGVobnJhekV1Rnh5REpKb3kyYlJzQWZBcXJXSVFWN0lIc1k2VDJhZXoyZnNVUW9sNDM4VGE2TWNHTkhGUkpIL3gyalh3a0ZRPT0YACAAKAAwvMKEmaLzigM4pN61hsYyQKTetYbGMkocYWQzcisya3p4VklYTll6REhkenhsREtNTXg4PVofIh3wV1M1c1BsYmFteC9wQ0M1Uy9hOUkwUUN2VG5BPWUAAAAAEvQBCB8S7wEKHEw0Wnk2VEV0VW8rK1RpRkFqdms4OTdrVnMwWT0SZlo6QURxdEFaeTRNMUh2V09pcklTRm1YeW1MN2J4ZVZJRjVvbFdJbGNMdWR0SFBOVjVWM0ttZUJhMWkvUCsrakFSUmQ1dG00UTBTVS95Q2pxejhnM3Z2MEFhQTNYSVZ6TVE3dnc9PRgAIAAoADDSnuWn5IiGAziui62j7zFArouto+8xShxKWWtpM2Y3UFVLcHkvSFJGejVSNlVWaU9QZVE9WiciJf////8AAAAF+0JEcUtkYm5STHBzd1NYWVkrQkdYZVlMZmc1ST1lLS5wvxLrAQgMEuYBChx1ZVlETDEvMTY5M2xpU0dJSXNiUTdQa1VhVlE9EmZaOkFEcXRBWnk0TTFIdldPaXJJU0ZtWHltTDdieGVBdThHMlYzNFRlT2wzR29iM1Z4S1ZsYitJT3lnVi9NM3Y2QlBaa1diTm5nSUI2WUI1R0hQN1FGeHFmdVYzaUFzcHVTMmVBPT0YACAAKAAwjLCcz/y6jwM44/2EwIgxQOP9hMCIMUocZHV0RmJrcFdHUzVvMXRUUnBONzBDQXpyam9VPVoeIhxycGNzczBRVXlIbmhrUUxtcElHVGJKWjl4V3c9ZeG9t8sS9AEIIBLvAQocODJuYVpJZGM4QXQ4VENCSURaMVd6WHoreGtVPRJmWjpBRHF0QVp5NE0xSHZXT2lySVNGbVh5bUw3YnhlM3EwcVJjalhXYUdvelpyQjVOb2VoQ3FqaTJKNW5vZldJNTI1MG1wcmpjMHpNd1BnQTMxRWZDVEoyeExsR0VKOWFCRG05UT09GAAgACgAMNuikbrO2ocDOLmfhN+RMkC5n4TfkTJKHEErWUZSZHc2VUxlWUhhaWJGT2ZKdFd0UjdjMD1aJyIl/////wAAAAX+VlRTVXlSaGhkS3JwSzIyRlhENWJRSXo5TDJFPWWXJYo1EuwBCBgS5wEKHC9hWmlld3VMQnhZeDRGQWJiMWp4MUlpMlJMTT0SZlo6QURxdEFaeTRNMUh2V09pcklTRm1YeW1MN2J4ZWxlLzhEZ25tUlZjQlVFWXpQd3RwRWs2UlQ5QzFGTXh6K21EZGo4OWFKa0N0ZFNIL0N1NTJHWmdTc3cwM0lyZFplcDBEN0E9PRgAIAAoADDv15azktONAzi0ztaBxjJAtM7WgcYyShxJbTNUazVXY1FSMEtiMk5BZldjbE1jQUxDb1E9Wh8iHfVQcFdQSnVSM01PamYxODNEa29xeFR4d2NVd1k9ZQAAAAAS7AEIBxLnAQoccnQ3b2JRb3F2cEhIS1lENmdQOHhkVStNd2FJPRJmWjpBRHF0QVp5NE0xSHZXT2lySVNGbVh5bUw3YnhldXR0cFZBcWJVVWFiRUZSbE1xRWQyakZMYVBqbUtSVmVmdW52RUtBbjFjWVVya2dIZ0Q2QWJsYzh4RldRemtUZERCeG82Zz09GAAgACgAMKGy6KydvIwDOLP4/eLfMkCz+P3i3zJKHFVSK1ZrQmQ1WHRZQngycUhvaUNqWHlKUkVYOD1aHyId3GVRRzRRaER0a3lMbmkwWEJtbHdUN3RUeXJsND1lAS1rxBLsAQgUEucBChxVaG96WWJhc3dpNVJtUGNBcTZWbW03M3Yvb289EmZaOkFEcXRBWnk0TTFIdldPaXJJU0ZtWHltTDdieGU4SkdaN1dkamtXakF0bzl6SzVDZDJHeDN0WDdGWTJHaytnNG8zclBKTFBRZnA1VUNEYjB4cGVZZkhVNUd5aE9vbDY1Q3N3PT0YACAAKAAw29G38u6JigM4192gwrgyQNfdoMK4MkocdDYzZnc4d3lydzBsTWo1VU5NaHFZTXJNTUdBPVofIh36YnQ4RUxqUWdRM3RoVlExak1vMnhmVmVRa3VRPWUAAAAAEuwBCA8S5wEKHG9jZlh5Wld0cHhUSEVlVGZFWCtSTnRHN1pQMD0SZlo6QURxdEFaeTRNMUh2V09pcklTRm1YeW1MN2J4ZXdIMDFYbFJxYWVhYVkwNktnTWJuOHM0TkZib1pRQnNQMytwM0J1TEZuVVdvYzlIZU9mbERTQXo5N1lFVkRmUHhPQ3B3emc9PRgAIAAoADCtkvyXovOKAzjEi/D4wTJAxIvw+MEyShwrQWtHWkZSdSt5bWNFcWdNdTlKWlNwbDZyODA9Wh8iHbhmZDJqcVFwUDdMQzY3dU1qVXYvczV1U3IvTms9ZeOAymoS9AEIIxLvAQocVE1FaWlxUzBSVFRncUZsL0l4SXg3R1JvalprPRJmWjpBRHF0QVp5NE0xSHZXT2lySVNGbVh5bUw3YnhlU3BvcTljRGxnT3E2NnN6VXp2a2xkOWlZMzVmekM0T2w3NjB2TUxGaGxLM1g4QmVLSEZRQXdJWUlFdGlMVFRBa0xTYWlkUT09GAAgACgAML/3/7is2I4DOK+gipniMkCvoIqZ4jJKHE5GODFGaWhkTFNJekxUS0hwWnBoT09JcjVGST1aJyIl/////wAAAAbvZWtmY2IrU3lCWjZTZkJJaXI1MC9CUXpvRDhJPWW/g0gQEuwBCAkS5wEKHHJxUU9scEhJamlGR2tBS3JGVTJEbW1kVzNubz0SZlo6QURxdEFaeTRNMUh2V09pcklTRm1YeW1MN2J4ZTJmOVk0RmtWbHMzWFdXMGIyYkhrSGJYbzNoSmdMUC9ISjZ5ZzVjdlEreVZ5dVF1RkVMZ3pLbUF0Wjh3MHFVSHdlUVMwcmc9PRgAIAAoADCHgrKlpbuNAzi37eKE8DJAt+3ihPAyShw0a0l4UHVBNmVlQlRxdkd2MXlBRXQ1N1ZrR0k9Wh8iHfdRTFhyR2NIOXFIb2Y1T0tZODMvb2tJS0lPOUk9ZclsMuQS7AEIChLnAQocbWkzcDNCaks2SE9zakhnN1h6MEJYMkVXbHl3PRJmWjpBRHF0QVp5NE0xSHZXT2lySVNGbVh5bUw3YnhlZU1icW1vU3NNdTFJSkV3RHN6Q29rMUlyYUp1VFZHd1ZDWFUySFdQQU9McmUyVkxMaURwY01CcUllZ1hpVllKdkErMDZGZz09GAAgACgAMMmxw8qsgoEDOIXd/JGkMUCF3fyRpDFKHGpHYzF6T3k3MlJXUlIrdHF0OHdDTHRZVXFUWT1aHyId2lA2WmNpamFHNGtkbm93NWE1RDQvRTRhMUFOZz1lAAAAABKsAggLEqcCChwzN1MwakVCKzdyL01McVNZeHpTeExqVTYrREE9EqYBWjpBRHF0QVp3aTllRXA0SjBpVjUzaTdVYUlaNjhHTzFjZE9oS1NWd2dzcnlOTmxTZXpwcm4raVJpZmJCZk9CN2liQXVmRC9ST0psSStFN0dwNXNMeEh6N09LalJ2VnVnVHh4K0dETmVYM1FtZFhpMVhaellYNXhFcmcra3RKUlJDUjZhVFRRakh0RmZEWHlVTkdDOTBxdHRZYXZpaXZxSGhKUEE9PRgAIAAoADDh0OnkoaWPAzjM2fqm0y5AzNn6ptMuShxSTEkrNmh4Mkc3MzQzR0piRkZLcUxkRjM1UFU9Wh4iHCtJUjN1YWRQMmJuZjhxYS8yYU41c24xKzNaZz1lIjmYNhKsAggOEqcCChwzN3ZpZkhUS0NNUDZtT0xjanJjaTZHR0VDNmM9EqYBWjpBRHF0QVp3aTllRXA0SjBpVjUzaTdVYUlaNjhHTjd2dXg5ang0aWNNZUJqV21zNFBaaUdGZmE0YzVSYmsra09CTm92TWNXQ2J0VUMwTUFzS3o5cVVhVUxyNXpRKzdyWTk3Znh4c1EydC83VnRnUnBMWmUxWVRpZnNEYm5iSzRma3FON3VGamtqUFVmejVOU1N2OU1VaVl0N3A2YWVOY1NWYmc9PRgAIAAoADDuqMuh246PAzjYzaaVty1A2M2mlbctShxwUFJNKzc5WHFHNkVhN2hIV0JZQVlyRXhHblU9Wh4iHHBxcXlNR01RZllNalo0cWNCMzNzdHNqTis0cz1lQ/htgBL0AQglEu8BChxJc3h6WGl0Zmt1UWovMVBPWDZ0L2thbGhUQU09EmZaOkFEcXRBWnk0TTFIdldPaXJJU0ZtWHltTDdieGVRK1FEYW91cDEvNDNJanhwKzJDd1BTL3loZzFXYk5JOWpxVERwQUU1ZExZbkw5K2pQUXdab0VNeEs0Vkl5U0Q1SGFVbFBRPT0YACAAKAAw7YzH+YnmjgM4rput6oUzQK6breqFM0ocNTFjZnVDRWx4ZG1EOG8yQ0ViLzNPcTRUWUdBPVonIiX/////AAAABvsxd2VWdzV2YytsZnV0OXNpTi9vbHpuN2V3MEk9ZQAAAAAS6wEIJhLmAQocUUppMGNvdEpOampJcG5Kd1U0WDNXTjBXUTRJPRJmWjpBRHF0QVp5NE0xSHZXT2lySVNGbVh5bUw3Ynhlc3BtS2VSSXdIUHJFa25sTXUwTXBXM3E0K1MvTlA1cklCQnY5a3ptaldFNkpSRllYU2taaHNZTU5NRzFDTlFFYVErL2VLdz09GAAgACgAML7fo9CNqY4DOIzF/Yv+MkCMxf2L/jJKHCs5blAyUGZITnoyNms5M2pzZXllR1JLNk9Oaz1aHiIcY3VWZ3pzQ2ppWUlFMVJMMjhRWGFKYk1SNWVzPWWtm5dKEuwBCAgS5wEKHCtmbGd4NnQzcC96d2ZDTXBHbnZBV2p4bzRkcz0SZlo6QURxdEFaeTRNMUh2V09pcklTRm1YeW1MN2J4ZXUvU216MmV3Z3JTZ3p3ZHJaZ0tKQ1pzSTBqVk8vM3F4VFZBN2pKazNjMEdacStHZTZ2OGZ3dDFzNTNqVjBDOGZqR1FrcUE9PRgAIAAoADCXqZzfj86MAzjqhojg4TJA6oaI4OEyShw4dm1oRzhyWC9OdUhnak5mVWtWTlB5TTV4T0U9Wh8iHe41Y3lGVVl5NzU3NExTRXJhL0N2UkZFQTVVV1E9ZYxz1ZQS7AEIFhLnAQocK3VYMkxoR1I5V3hQWFAycVR4Y3lxRFFuSGZNPRJmWjpBRHF0QVp5NE0xSHZXT2lySVNGbVh5bUw3YnhlNkUxNTdNaFFZOHgrdWY3UUFHWksyTFNUZGUzcThhSGhidno3dEQvQlhVZFRlZlRGbU1IR2RoeEQ4TVh4UlRIOHlTZ0YzZz09GAAgACgAMPyBoYLA5ooDOIiW3KDYMUCIltyg2DFKHHFDVU5PNzFhWk9xRkVOMWZJSUR2Wmc2RHZOVT1aHyId1lJZc0pZZXNPREJ2VEkyZklTZjFGTkxzV1R4az1lACIl4BLrAQgFEuYBChxudlAvMlhmTU9xdk5oUE5BT0tiVW4zRVBZejQ9EmZaOkFEcXRBWnk0TTFIdldPaXJJU0ZtWHltTDdieGVTZ2ZOalF0cnJCWjlVb25qWklsMUVuTUhyQmVxR3A2dVdLa0JOOGxIS29PaFJNQmpTNndZNmZEb1hOMzVMZkg0a1I3YmtRPT0YACAAKAAw547yvuqhhgM4gLOj76sxQICzo++rMUocejk5MUhPdDhMYjdKZ3NodnFPU2FMYjlpaHJzPVoeIhxyaHR4SUkycXoxZkNodmUzRXdqSFVqUVVtYXc9ZY+fSWQS9AEIIRLvAQocOGVyck1MZHF3aGgraWp2RVJPRS9oNlJwNUZ3PRJmWjpBRHF0QVp5NE0xSHZXT2lySVNGbVh5bUw3YnhldXBsbFJLbE5SNlN1WEdIQUgrbVZkTCtldmhKalBac09ua2hoV1dQa3Y2Y0R4U0FlaW9XQ3d6TCtWcVRHZTIxYlJPYXhVdz09GAAgACgAMPz44rWwlI4DOJ6evcncMkCenr3J3DJKHFNySjhqZXg1TnZNK1YvczlWdUMvMUlJaUg0MD1aJyIl/////wAAAAa8SjdGdzl2MTZEVU8vY2J0MmhuRmxpYjJSUlRRPWXI8z+7EusBCBES5gEKHGcxT3FaMUxMYy9kbitPbDJEZGtPT1BBVnJWQT0SZlo6QURxdEFaeTRNMUh2V09pcklTRm1YeW1MN2J4ZU1CTm51M0oybzVuZEhwK0hsV3dhenZYSmgxRkliOEtmTTQ2b0htTi9YdldhSFlpZWd6NXZQSzE0WEk0L0dKTWMvNjFKdXc9PRgAIAEoATCuzc2AmsWPAzjT9J+UiDFAoLK8iZIzShxaRXRTSElvbXJKSk5oTWgwRGFDVGNnZGt6eGs9Wh4iHEk0MWtyQlk0elB4MURWVnF5a1o1RFl5ZUV0TT1loEkd2BLDAQgCEr4BChxZY1NUb252RVNQd3FDczRMMmNyVmh2NjhMOTg9EmZaOkFEcXRBWndQYUNGdXFrNnZORlBlWEhVcmVFaG5nWEtWQXFwcFBJMTV0TW9wUkhVeFF0SmJUblJNTDNjbXpWUmo3QjF6WTlEQzRrZC9ERzhvb2xsd3Y0OHcwNGQzU2IwU053PT0YACAAKAAwwLmbopDFjwM4AEAAShxvUFZraHdCUmJWNjVLQ1dSMitJT05IV29PdTg9WgBlAAAAABLDAQgDEr4BChxuamdEdTg4ZUNydlhwODZwRDdmSEdjcUZwODg9EmZaOkFEcXRBWno1SW5pS2o0a2hIdldSVE5yVWpQb3hxdGljeUtHL1ZEZG9ONktXVTRRTW50WERwd3lZMTYyclZFQ3VkK0owSFM4b3hGS0Z2K1M0ZlQzYld0LzN6ejliODJOQlFRPT0YACAAKAAwwLmbopDFjwM4AEAAShx5ek5CMDFjbjU0QTdjUlUwdVQrL1BnbVR0VW89WgBlAAAAABL0AQgkEu8BChxRZjY4ZFNOTVRRWEIrVFMvOVhEejJ5R3h6dmc9EmZaOkFEcXRBWnk0TTFIdldPaXJJU0ZtWHltTDdieGVLWjQyaUJibW9VT1NzZzM1S0p1bG1PODFCeEc0T0xHR2lCTXVHanJPK01tRHFXNVpjakIxV3RlNWRaYzdIV1lWUG51eGVBPT0YACAAKAAwk6Hw/vPYjAM4gZvquOMyQIGb6rjjMkocY3piRlJ0bkQvNG91dlhyWFNwRllXUTN0SzJzPVonIiX/////AAAABvdoVi8rR1RoeGhzUW1IeElKNU01NDgrMWRJWFk9ZYxz1ZQS7AEIFxLnAQocVUFJMTc5N2NibkhvVHduUU5uSndFVHFrQ3lNPRJmWjpBRHF0QVp5NE0xSHZXT2lySVNGbVh5bUw3YnhlT0xwVjhiL29tSFNnMnlBMHNHQzRTQ3dCWHhVWVpGYWZzZ2k4WHlEN3F2RUM0VVgvVU9jMEE5QkNJdXhyNWlCTVVxTGVGdz09GAAgACgAMLfpnr+E+IoDOKiW9+i4MkColvfouDJKHHlabU1tZlVlcDg2MkdGWG96S2UwbzQyYytzST1aHyId6zM0d2RMaDNmQTEwZmlMRW9USTJvZFZDY3hQZz1lACIl4BLrAQgVEuYBChxYbENiL1J6aUg1cEhYWk5iMzlPT1ZCTS95bEk9EmZaOkFEcXRBWnk0TTFIdldPaXJJU0ZtWHltTDdieGVWL3pvOVJwVnVVY2ZvR09vTGdYRnRyaVQ5OFBEN0J6R1RqU3liZHVzUkpONjgvQmdia1I5Z3UwcFY4dFNSeGpTMUlOVER3PT0YACAAKAAwh5ysgaXxjgM4wcKYwrgyQMHCmMK4Mkocekpvc1dRdTdxV21yNUYyR01QQXhaU3BtWTlNPVoeIhxaQlEwUTVWTXR6NklOSWVKd3dLRnNmckZiSkU9ZbJ//uAS9AEIIhLvAQocUEZuSmt3b2F4N25SeHkvV01vT01kZ1c3b2VJPRJmWjpBRHF0QVp5NE0xSHZXT2lySVNGbVh5bUw3YnhlTlhlajNnZ0tRTUQxZ2pNRkgwZmhKcDZOTzQ4UUsydTI3dDNlcWJDUjJwT2JDSnpkOHZTd2ZhUlgyVjVzUkpTakZwSXA5QT09GAAgACgAMP+lpNaSz4wDONWQ9ZjiMkDVkPWY4jJKHGdJa1diNmJDWitYb0R5dlVmQzdsTk5xdENwMD1aJyIl/////wAAAAbeZncxQkh6dU0vSjd4VE1Qak8vZlh1SWxHNTVrPWVzg0/kEuwBCBAS5wEKHDNJbVFaWGhOb296clErT25rRUNEeUcxMmFYOD0SZlo6QURxdEFaeTRNMUh2V09pcklTRm1YeW1MN2J4ZUFQN0ROeDRva3QyTEhPcFZRalN2bzdETklZbVpHZzQxK1dkd1dGam5DaFc5SGpPYnMvUHVtd1EvSlZFVFlDNko5ckZXZlE9PRgAIAAoADCL65bx7omKAzjLwovGuDJAy8KLxrgyShxTZXdDaWNhOHYxMVUya3NOck8xWTd3R1BMbE09Wh8iHfVqa2RmWEdNdjVxblVRb1pOQ1dJaHZFdnovZEk9ZQAAAAAS7QEIHBLoAQocQktoeUR6UUp2Mm02QkVrWS84RlV4ZEZpV25ZPRJmWjpBRHF0QVp5NE0xSHZXT2lySVNGbVh5bUw3YnhlNDRvdnRXOExGVXpmSmZwSUJ2SVdFcWJnT2VTNGZWS1JTdGxtWEZPa2NzU0ZmM1FLS2xiZWlwb0E0anprdElmNUJMNVFKdz09GAAgACgAMNLDqf27q44DOIzk7cPzMkCM5O3D8zJKHG9NYjJaZU9UZEhZNkJKczJEdHBHYmQ5VGg4UT1aICIe/9NQM1Y3SGdFSms3U1BiZDdIOE5TQlN4ODJJVk09Zd3AWBYS7AEIGRLnAQocWVFsNkQyK3c2QkVmSU9GMENrRjRGellFeGZrPRJmWjpBRHF0QVp5NE0xSHZXT2lySVNGbVh5bUw3YnhlM2djRGdkTHhDcmViTThTTDBMeHNaOGZEbHMyVXhJYmJJQlJDTkNsR2ZlMHFxL2NSZVNWQUoranhrVldoTzVNRERYaFRjdz09GAAgACgAMPb9hfuCu48DOLTQ+/3GMkC00Pv9xjJKHDdQOEFmYStnajR1YVFHTjRiQ0F6NnVFTFNTST1aHyId/lFOQnc5VjNoMTFRa3dXZ0FUNG1uQkJzUitraz1lJW2KfhKrAQgBEqYBChx5eEovNmZ2a2VjcjdrcDVFUXpCNHRXTHBkYkU9Ek5aOkFEcXRBWnlGdXpJUHVqQ1puZ2wzYVlxMGVCTVU1OVJKVkZrZ2dIWWdlVFY5RDlBbkFGYmoxUW5XdG4wdHBGU2d4SkZYZjhpZXY2NGQYACAAKAAwwLmbopDFjwM4AEAAShxhUkNXTGdoRjliNUlucUtJRHZ1Si9qdlFrRmM9WgBlAAAAABLsAQgaEucBChxacnJ2ZiswNS83c2RzWG91cXJwSFduVWQ1TzA9EmZaOkFEcXRBWnk0TTFIdldPaXJJU0ZtWHltTDdieGUxVkpYZFIrTk9mclhsQXducHc5TlB4Z24wSmd2TFBzM0Y2VWp2cnVJNm0vVnlJdEk0eG9sWGk1ZnpBSzh5alFDKytnSTdRPT0YACAAKAAw3LHGh+nDjQM4gPvBkPEyQID7wZDxMkocS3RDK21CR016OXF4YUczb0JRQktvZlY5V3lJPVofIh3/TGIwVklyenpJWWdjUEtobXdEM3VFMmdUUk1nPWW5wURtEuwBCBMS5wEKHEo2ak9YVEF4eFR0Qzc1Z3lTdDZqMXlOai9tcz0SZlo6QURxdEFaeTRNMUh2V09pcklTRm1YeW1MN2J4ZTl4OTB0a3FKS3FhSENWSk11bVhUWHorSVZuM1Nqd1M3ek4ySkxFVDFxVzFzR2trbWdsTkJ5MmZ2N1VUZGFpNmMvamVOVkE9PRgAIAAoADC3vKOB6tqMAzj39IrGuDJA9/SKxrgyShxpeUdmM1FpYksxQnozNythTW56Y0FmR3RsUGc9Wh8iHelFUDRHVUw1OVA0d2EzWFBLK3YxZDNwdytwUHM9ZavWYx8S7QEIGxLoAQocaktCd1BPV1ZIcmhkaGZ0Mlk3YjhCTGk2TDN3PRJmWjpBRHF0QVp5NE0xSHZXT2lySVNGbVh5bUw3YnhlYldRc3hjZktONlBCZHErS2VhT2xEZVF3dkRBNFNmblhGZ2dUQ3h4YWtYbExtalViem95OCtZa1diWFFlZngzZ2pRZVRQQT09GAAgACgAMNmg4oG8q44DONXRrpHxMkDV0a6R8TJKHGlmZHZrbk5Ddm94QnBtR1dCTHIyc2Q2di9laz1aICIe/6YwYlpFWWdac3E2NURGVTBxbXVuU2ErTU12WE09Zd3AWBYS8wEIHRLuAQoca0pQTUNpMDkzUEtoN3E5RjR0aXY5Q1FKbzhNPRJmWjpBRHF0QVp5NE0xSHZXT2lySVNGbVh5bUw3Ynhlc0xXQ1dneEpvdk1IQjBqeHVqWU9MWnVkaHBxajNPc0RGSkVNSWtRNURGekhUMGorL3puaVVnenBTbjg2SXhpUmpSVHNVZz09GAAgACgAMOn9qtT5tY8DOO/khorxMEDv5IaK8TBKHElkTmFRSjB1U0FpSWxHdnpDVDZIVVFHQnVpQT1aJiIk/////wAAAARkeEhzcFZJQ1RNdk1HS25tU25NYytFR3UySmc9ZdeRPTkS9AEIHhLvAQocandHb1dGMHg0RDkyNS9vL1dMUTBVcnRYeEI0PRJmWjpBRHF0QVp5NE0xSHZXT2lySVNGbVh5bUw3YnhlcHBuUE55UnNqY2JFT2FBWkhIaDhDMER6SmdDcVUzb2REYllUMmVzYXU0TmJ5MlU4dDhmeE9RSXpzdVY5YjFZWVpMVHBSQT09GAAgACgAMOnxsbrLlI4DOLuh0OGIMUC7odDhiDFKHFBOWXMvc0x2WmIrZ3gxdjk3cG9aM1hqZ2l3ND1aJyIl/////wAAAATuV1lYZWY5RjlUVXhqUDBIUVVUbVEyakE1SGhNPWWcfrBEMAE4AA==",
+   "version": 1
+}
